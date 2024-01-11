@@ -1,0 +1,10 @@
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Antrian\bin\Debug\Antrian.exe.config
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Antrian\obj\Debug\Antrian.Form1.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Antrian\obj\Debug\Antrian.Resources.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Antrian\obj\Debug\Antrian.vbproj.GenerateResource.Cache
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Antrian\bin\Debug\Antrian.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Antrian\bin\Debug\Antrian.pdb
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Antrian\bin\Debug\Antrian.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Antrian\obj\Debug\Antrian.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Antrian\obj\Debug\Antrian.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Antrian\obj\Debug\Antrian.pdb

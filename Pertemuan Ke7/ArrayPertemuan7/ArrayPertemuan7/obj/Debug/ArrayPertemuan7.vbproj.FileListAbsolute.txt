@@ -1,0 +1,10 @@
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\ArrayPertemuan7\bin\Debug\ArrayPertemuan7.exe.config
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\ArrayPertemuan7\bin\Debug\ArrayPertemuan7.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\ArrayPertemuan7\bin\Debug\ArrayPertemuan7.pdb
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\ArrayPertemuan7\bin\Debug\ArrayPertemuan7.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\ArrayPertemuan7\obj\Debug\ArrayPertemuan7.Form1.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\ArrayPertemuan7\obj\Debug\ArrayPertemuan7.Resources.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\ArrayPertemuan7\obj\Debug\ArrayPertemuan7.vbproj.GenerateResource.Cache
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\ArrayPertemuan7\obj\Debug\ArrayPertemuan7.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\ArrayPertemuan7\obj\Debug\ArrayPertemuan7.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\ArrayPertemuan7\obj\Debug\ArrayPertemuan7.pdb

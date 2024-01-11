@@ -1,0 +1,10 @@
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Perulang9an Ke2\bin\Debug\Perulang9an Ke2.exe.config
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Perulang9an Ke2\bin\Debug\Perulang9an Ke2.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Perulang9an Ke2\bin\Debug\Perulang9an Ke2.pdb
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Perulang9an Ke2\bin\Debug\Perulang9an Ke2.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Perulang9an Ke2\obj\Debug\Perulang9an_Ke2.Form1.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Perulang9an Ke2\obj\Debug\Perulang9an_Ke2.Resources.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Perulang9an Ke2\obj\Debug\Perulangan Ke2.vbproj.GenerateResource.Cache
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Perulang9an Ke2\obj\Debug\Perulang9an Ke2.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Perulang9an Ke2\obj\Debug\Perulang9an Ke2.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Perulang9an Ke2\obj\Debug\Perulang9an Ke2.pdb

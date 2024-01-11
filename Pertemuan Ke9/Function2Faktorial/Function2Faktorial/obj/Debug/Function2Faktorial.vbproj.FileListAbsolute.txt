@@ -1,0 +1,14 @@
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Function2Faktorial\bin\Debug\Function2Faktorial.exe.config
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Function2Faktorial\bin\Debug\Function2Faktorial.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Function2Faktorial\bin\Debug\Function2Faktorial.pdb
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Function2Faktorial\bin\Debug\Function2Faktorial.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Function2Faktorial\obj\Debug\Function2Faktorial.Form1.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Function2Faktorial\obj\Debug\Function2Faktorial.Resources.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Function2Faktorial\obj\Debug\Function2Faktorial.vbproj.GenerateResource.Cache
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Function2Faktorial\obj\Debug\Function2Faktorial.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Function2Faktorial\obj\Debug\Function2Faktorial.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Function2Faktorial\obj\Debug\Function2Faktorial.pdb
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Function2Faktorial\Function2Faktorial\bin\Debug\Function2Faktorial.exe.config
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Function2Faktorial\Function2Faktorial\obj\Debug\Function2Faktorial.exe
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Function2Faktorial\Function2Faktorial\obj\Debug\Function2Faktorial.xml
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Function2Faktorial\Function2Faktorial\obj\Debug\Function2Faktorial.pdb

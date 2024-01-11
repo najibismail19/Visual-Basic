@@ -1,0 +1,10 @@
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Bubble Sort\bin\Debug\Bubble Sort.exe.config
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Bubble Sort\obj\Debug\Bubble_Sort.Form1.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Bubble Sort\obj\Debug\Bubble_Sort.Resources.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Bubble Sort\obj\Debug\Bubble Sort.vbproj.GenerateResource.Cache
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Bubble Sort\bin\Debug\Bubble Sort.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Bubble Sort\bin\Debug\Bubble Sort.pdb
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Bubble Sort\bin\Debug\Bubble Sort.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Bubble Sort\obj\Debug\Bubble Sort.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Bubble Sort\obj\Debug\Bubble Sort.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Bubble Sort\obj\Debug\Bubble Sort.pdb

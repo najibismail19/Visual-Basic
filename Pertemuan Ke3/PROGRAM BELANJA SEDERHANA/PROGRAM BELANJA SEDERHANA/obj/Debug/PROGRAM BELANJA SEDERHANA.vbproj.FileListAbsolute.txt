@@ -1,0 +1,10 @@
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\PROGRAM BELANJA SEDERHANA\bin\Debug\PROGRAM BELANJA SEDERHANA.exe.config
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\PROGRAM BELANJA SEDERHANA\bin\Debug\PROGRAM BELANJA SEDERHANA.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\PROGRAM BELANJA SEDERHANA\bin\Debug\PROGRAM BELANJA SEDERHANA.pdb
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\PROGRAM BELANJA SEDERHANA\bin\Debug\PROGRAM BELANJA SEDERHANA.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\PROGRAM BELANJA SEDERHANA\obj\Debug\PROGRAM_BELANJA_SEDERHANA.Form1.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\PROGRAM BELANJA SEDERHANA\obj\Debug\PROGRAM_BELANJA_SEDERHANA.Resources.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\PROGRAM BELANJA SEDERHANA\obj\Debug\PROGRAM BELANJA SEDERHANA.vbproj.GenerateResource.Cache
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\PROGRAM BELANJA SEDERHANA\obj\Debug\PROGRAM BELANJA SEDERHANA.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\PROGRAM BELANJA SEDERHANA\obj\Debug\PROGRAM BELANJA SEDERHANA.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\PROGRAM BELANJA SEDERHANA\obj\Debug\PROGRAM BELANJA SEDERHANA.pdb

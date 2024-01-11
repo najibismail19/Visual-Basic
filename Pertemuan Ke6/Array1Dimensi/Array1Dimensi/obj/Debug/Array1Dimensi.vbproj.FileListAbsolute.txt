@@ -1,0 +1,14 @@
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Array1Dimensi\bin\Debug\Array1Dimensi.exe.config
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Array1Dimensi\bin\Debug\Array1Dimensi.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Array1Dimensi\bin\Debug\Array1Dimensi.pdb
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Array1Dimensi\bin\Debug\Array1Dimensi.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Array1Dimensi\obj\Debug\Array1Dimensi.Form1.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Array1Dimensi\obj\Debug\Array1Dimensi.Resources.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Array1Dimensi\obj\Debug\Array1Dimensi.vbproj.GenerateResource.Cache
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Array1Dimensi\obj\Debug\Array1Dimensi.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Array1Dimensi\obj\Debug\Array1Dimensi.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Array1Dimensi\obj\Debug\Array1Dimensi.pdb
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Array1Dimensi\Array1Dimensi\bin\Debug\Array1Dimensi.exe.config
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Array1Dimensi\Array1Dimensi\obj\Debug\Array1Dimensi.exe
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Array1Dimensi\Array1Dimensi\obj\Debug\Array1Dimensi.xml
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Array1Dimensi\Array1Dimensi\obj\Debug\Array1Dimensi.pdb

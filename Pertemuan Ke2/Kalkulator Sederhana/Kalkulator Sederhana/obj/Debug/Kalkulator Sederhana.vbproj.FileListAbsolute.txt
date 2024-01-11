@@ -1,0 +1,10 @@
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Kalkulator Sederhana\bin\Debug\Kalkulator Sederhana.exe.config
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Kalkulator Sederhana\obj\Debug\Kalkulator_Sederhana.Form1.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Kalkulator Sederhana\obj\Debug\Kalkulator_Sederhana.Resources.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Kalkulator Sederhana\obj\Debug\Kalkulator Sederhana.vbproj.GenerateResource.Cache
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Kalkulator Sederhana\bin\Debug\Kalkulator Sederhana.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Kalkulator Sederhana\bin\Debug\Kalkulator Sederhana.pdb
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Kalkulator Sederhana\bin\Debug\Kalkulator Sederhana.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Kalkulator Sederhana\obj\Debug\Kalkulator Sederhana.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Kalkulator Sederhana\obj\Debug\Kalkulator Sederhana.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Kalkulator Sederhana\obj\Debug\Kalkulator Sederhana.pdb

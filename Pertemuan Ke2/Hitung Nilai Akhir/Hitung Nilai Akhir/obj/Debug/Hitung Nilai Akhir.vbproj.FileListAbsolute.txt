@@ -1,0 +1,10 @@
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Hitung Nilai Akhir\bin\Debug\Hitung Nilai Akhir.exe.config
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Hitung Nilai Akhir\bin\Debug\Hitung Nilai Akhir.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Hitung Nilai Akhir\bin\Debug\Hitung Nilai Akhir.pdb
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Hitung Nilai Akhir\bin\Debug\Hitung Nilai Akhir.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Hitung Nilai Akhir\obj\Debug\Hitung_Nilai_Akhir.Form1.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Hitung Nilai Akhir\obj\Debug\Hitung_Nilai_Akhir.Resources.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Hitung Nilai Akhir\obj\Debug\Hitung Nilai Akhir.vbproj.GenerateResource.Cache
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Hitung Nilai Akhir\obj\Debug\Hitung Nilai Akhir.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Hitung Nilai Akhir\obj\Debug\Hitung Nilai Akhir.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Hitung Nilai Akhir\obj\Debug\Hitung Nilai Akhir.pdb

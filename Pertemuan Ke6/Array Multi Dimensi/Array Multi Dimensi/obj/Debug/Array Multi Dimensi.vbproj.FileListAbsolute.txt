@@ -1,0 +1,14 @@
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Array Multi Dimensi\bin\Debug\Array Multi Dimensi.exe.config
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Array Multi Dimensi\bin\Debug\Array Multi Dimensi.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Array Multi Dimensi\bin\Debug\Array Multi Dimensi.pdb
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Array Multi Dimensi\bin\Debug\Array Multi Dimensi.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Array Multi Dimensi\obj\Debug\Array_Multi_Dimensi.Form1.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Array Multi Dimensi\obj\Debug\Array_Multi_Dimensi.Resources.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Array Multi Dimensi\obj\Debug\Array Multi Dimensi.vbproj.GenerateResource.Cache
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Array Multi Dimensi\obj\Debug\Array Multi Dimensi.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Array Multi Dimensi\obj\Debug\Array Multi Dimensi.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Array Multi Dimensi\obj\Debug\Array Multi Dimensi.pdb
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Array Multi Dimensi\Array Multi Dimensi\bin\Debug\Array Multi Dimensi.exe.config
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Array Multi Dimensi\Array Multi Dimensi\obj\Debug\Array Multi Dimensi.exe
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Array Multi Dimensi\Array Multi Dimensi\obj\Debug\Array Multi Dimensi.xml
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Array Multi Dimensi\Array Multi Dimensi\obj\Debug\Array Multi Dimensi.pdb

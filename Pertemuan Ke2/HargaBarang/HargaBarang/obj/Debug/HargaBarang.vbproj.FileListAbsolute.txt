@@ -1,0 +1,10 @@
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\HargaBarang\bin\Debug\HargaBarang.exe.config
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\HargaBarang\bin\Debug\HargaBarang.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\HargaBarang\bin\Debug\HargaBarang.pdb
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\HargaBarang\bin\Debug\HargaBarang.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\HargaBarang\obj\Debug\HargaBarang.Form1.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\HargaBarang\obj\Debug\HargaBarang.Resources.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\HargaBarang\obj\Debug\HargaBarang.vbproj.GenerateResource.Cache
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\HargaBarang\obj\Debug\HargaBarang.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\HargaBarang\obj\Debug\HargaBarang.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\HargaBarang\obj\Debug\HargaBarang.pdb

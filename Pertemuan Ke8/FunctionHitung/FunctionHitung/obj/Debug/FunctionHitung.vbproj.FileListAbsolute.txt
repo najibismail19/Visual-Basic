@@ -1,0 +1,14 @@
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\FunctionHitung\bin\Debug\FunctionHitung.exe.config
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\FunctionHitung\bin\Debug\FunctionHitung.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\FunctionHitung\bin\Debug\FunctionHitung.pdb
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\FunctionHitung\bin\Debug\FunctionHitung.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\FunctionHitung\obj\Debug\FunctionHitung.Form1.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\FunctionHitung\obj\Debug\FunctionHitung.Resources.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\FunctionHitung\obj\Debug\FunctionHitung.vbproj.GenerateResource.Cache
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\FunctionHitung\obj\Debug\FunctionHitung.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\FunctionHitung\obj\Debug\FunctionHitung.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\FunctionHitung\obj\Debug\FunctionHitung.pdb
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\FunctionHitung\FunctionHitung\bin\Debug\FunctionHitung.exe.config
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\FunctionHitung\FunctionHitung\obj\Debug\FunctionHitung.exe
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\FunctionHitung\FunctionHitung\obj\Debug\FunctionHitung.xml
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\FunctionHitung\FunctionHitung\obj\Debug\FunctionHitung.pdb

@@ -1,0 +1,10 @@
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Function4Faktorial\bin\Debug\Function4Faktorial.exe.config
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Function4Faktorial\bin\Debug\Function4Faktorial.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Function4Faktorial\bin\Debug\Function4Faktorial.pdb
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Function4Faktorial\bin\Debug\Function4Faktorial.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Function4Faktorial\obj\Debug\Function4Faktorial.Form1.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Function4Faktorial\obj\Debug\Function4Faktorial.Resources.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Function4Faktorial\obj\Debug\Function4Faktorial.vbproj.GenerateResource.Cache
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Function4Faktorial\obj\Debug\Function4Faktorial.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Function4Faktorial\obj\Debug\Function4Faktorial.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Function4Faktorial\obj\Debug\Function4Faktorial.pdb

@@ -1,0 +1,14 @@
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\LatihanStack\bin\Debug\LatihanStack.exe.config
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\LatihanStack\bin\Debug\LatihanStack.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\LatihanStack\bin\Debug\LatihanStack.pdb
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\LatihanStack\bin\Debug\LatihanStack.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\LatihanStack\obj\Debug\LatihanStack.Form1.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\LatihanStack\obj\Debug\LatihanStack.Resources.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\LatihanStack\obj\Debug\LatihanStack.vbproj.GenerateResource.Cache
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\LatihanStack\obj\Debug\LatihanStack.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\LatihanStack\obj\Debug\LatihanStack.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\LatihanStack\obj\Debug\LatihanStack.pdb
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\LatihanStack\LatihanStack\bin\Debug\LatihanStack.exe.config
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\LatihanStack\LatihanStack\obj\Debug\LatihanStack.exe
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\LatihanStack\LatihanStack\obj\Debug\LatihanStack.xml
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\LatihanStack\LatihanStack\obj\Debug\LatihanStack.pdb

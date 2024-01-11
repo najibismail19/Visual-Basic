@@ -1,0 +1,11 @@
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Order Pesanan\bin\Debug\Order Pesanan.exe.config
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Order Pesanan\Order Pesanan\bin\Debug\Order Pesanan.exe.config
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Order Pesanan\Order Pesanan\obj\Debug\Order_Pesanan.OrderMakanan.resources
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Order Pesanan\Order Pesanan\obj\Debug\Order_Pesanan.Resources.resources
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Order Pesanan\Order Pesanan\obj\Debug\Order Pesanan.vbproj.GenerateResource.Cache
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Order Pesanan\Order Pesanan\bin\Debug\Order Pesanan.exe
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Order Pesanan\Order Pesanan\bin\Debug\Order Pesanan.pdb
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Order Pesanan\Order Pesanan\bin\Debug\Order Pesanan.xml
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Order Pesanan\Order Pesanan\obj\Debug\Order Pesanan.exe
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Order Pesanan\Order Pesanan\obj\Debug\Order Pesanan.xml
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Order Pesanan\Order Pesanan\obj\Debug\Order Pesanan.pdb

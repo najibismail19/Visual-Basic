@@ -1,0 +1,22 @@
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menampilkan Loading\bin\Debug\Menampilkan Loading.exe.config
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menampilkan Loading\obj\Debug\Menampilkan_Loading.Form1.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menampilkan Loading\obj\Debug\Menampilkan_Loading.Resources.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menampilkan Loading\obj\Debug\Menampilkan Loading.vbproj.GenerateResource.Cache
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menampilkan Loading\obj\Debug\Menampilkan_Loading.MenghitungJarak.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menampilkan Loading\bin\Debug\Menampilkan Loading.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menampilkan Loading\bin\Debug\Menampilkan Loading.pdb
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menampilkan Loading\bin\Debug\Menampilkan Loading.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menampilkan Loading\obj\Debug\Menampilkan Loading.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menampilkan Loading\obj\Debug\Menampilkan Loading.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menampilkan Loading\obj\Debug\Menampilkan Loading.pdb
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Menampilkan Loading\Menampilkan Loading\bin\Debug\Menampilkan Loading.exe.config
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Menampilkan Loading\Menampilkan Loading\obj\Debug\Menampilkan Loading.exe
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Menampilkan Loading\Menampilkan Loading\obj\Debug\Menampilkan Loading.xml
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Menampilkan Loading\Menampilkan Loading\obj\Debug\Menampilkan Loading.pdb
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Menampilkan Loading\Menampilkan Loading\bin\Debug\Menampilkan Loading.exe
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Menampilkan Loading\Menampilkan Loading\bin\Debug\Menampilkan Loading.pdb
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Menampilkan Loading\Menampilkan Loading\bin\Debug\Menampilkan Loading.xml
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Menampilkan Loading\Menampilkan Loading\obj\Debug\Menampilkan_Loading.Form1.resources
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Menampilkan Loading\Menampilkan Loading\obj\Debug\Menampilkan_Loading.MenghitungJarak.resources
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Menampilkan Loading\Menampilkan Loading\obj\Debug\Menampilkan_Loading.Resources.resources
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Menampilkan Loading\Menampilkan Loading\obj\Debug\Menampilkan Loading.vbproj.GenerateResource.Cache

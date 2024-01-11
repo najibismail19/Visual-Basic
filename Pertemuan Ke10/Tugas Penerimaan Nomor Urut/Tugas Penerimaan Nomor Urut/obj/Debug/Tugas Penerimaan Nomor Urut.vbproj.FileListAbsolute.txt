@@ -1,0 +1,10 @@
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Tugas Penerimaan Nomor Urut\bin\Debug\Tugas Penerimaan Nomor Urut.exe.config
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Tugas Penerimaan Nomor Urut\obj\Debug\Tugas_Penerimaan_Nomor_Urut.Form1.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Tugas Penerimaan Nomor Urut\obj\Debug\Tugas_Penerimaan_Nomor_Urut.Resources.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Tugas Penerimaan Nomor Urut\obj\Debug\Tugas Penerimaan Nomor Urut.vbproj.GenerateResource.Cache
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Tugas Penerimaan Nomor Urut\bin\Debug\Tugas Penerimaan Nomor Urut.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Tugas Penerimaan Nomor Urut\bin\Debug\Tugas Penerimaan Nomor Urut.pdb
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Tugas Penerimaan Nomor Urut\bin\Debug\Tugas Penerimaan Nomor Urut.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Tugas Penerimaan Nomor Urut\obj\Debug\Tugas Penerimaan Nomor Urut.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Tugas Penerimaan Nomor Urut\obj\Debug\Tugas Penerimaan Nomor Urut.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Tugas Penerimaan Nomor Urut\obj\Debug\Tugas Penerimaan Nomor Urut.pdb

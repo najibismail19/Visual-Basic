@@ -1,0 +1,10 @@
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Program Perulangan Teks\bin\Debug\Program Perulangan Teks.exe.config
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Program Perulangan Teks\bin\Debug\Program Perulangan Teks.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Program Perulangan Teks\bin\Debug\Program Perulangan Teks.pdb
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Program Perulangan Teks\bin\Debug\Program Perulangan Teks.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Program Perulangan Teks\obj\Debug\Program_Perulangan_Teks.Form1.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Program Perulangan Teks\obj\Debug\Program_Perulangan_Teks.Resources.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Program Perulangan Teks\obj\Debug\Program Perulangan Teks.vbproj.GenerateResource.Cache
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Program Perulangan Teks\obj\Debug\Program Perulangan Teks.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Program Perulangan Teks\obj\Debug\Program Perulangan Teks.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Program Perulangan Teks\obj\Debug\Program Perulangan Teks.pdb

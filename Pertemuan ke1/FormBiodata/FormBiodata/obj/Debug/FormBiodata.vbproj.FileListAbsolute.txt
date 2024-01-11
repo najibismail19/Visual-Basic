@@ -1,0 +1,10 @@
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\FormBiodata\bin\Debug\FormBiodata.exe.config
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\FormBiodata\bin\Debug\FormBiodata.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\FormBiodata\bin\Debug\FormBiodata.pdb
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\FormBiodata\bin\Debug\FormBiodata.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\FormBiodata\obj\Debug\FormBiodata.Form1.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\FormBiodata\obj\Debug\FormBiodata.Resources.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\FormBiodata\obj\Debug\FormBiodata.vbproj.GenerateResource.Cache
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\FormBiodata\obj\Debug\FormBiodata.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\FormBiodata\obj\Debug\FormBiodata.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\FormBiodata\obj\Debug\FormBiodata.pdb

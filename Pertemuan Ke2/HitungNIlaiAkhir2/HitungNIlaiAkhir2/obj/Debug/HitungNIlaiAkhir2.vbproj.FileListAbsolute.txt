@@ -1,0 +1,11 @@
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\HitungNIlaiAkhir2\bin\Debug\HitungNIlaiAkhir2.exe.config
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\HitungNIlaiAkhir2\HitungNIlaiAkhir2\bin\Debug\HitungNIlaiAkhir2.exe.config
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\HitungNIlaiAkhir2\HitungNIlaiAkhir2\bin\Debug\HitungNIlaiAkhir2.exe
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\HitungNIlaiAkhir2\HitungNIlaiAkhir2\bin\Debug\HitungNIlaiAkhir2.pdb
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\HitungNIlaiAkhir2\HitungNIlaiAkhir2\bin\Debug\HitungNIlaiAkhir2.xml
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\HitungNIlaiAkhir2\HitungNIlaiAkhir2\obj\Debug\HitungNIlaiAkhir2.Form1.resources
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\HitungNIlaiAkhir2\HitungNIlaiAkhir2\obj\Debug\HitungNIlaiAkhir2.Resources.resources
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\HitungNIlaiAkhir2\HitungNIlaiAkhir2\obj\Debug\HitungNIlaiAkhir2.vbproj.GenerateResource.Cache
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\HitungNIlaiAkhir2\HitungNIlaiAkhir2\obj\Debug\HitungNIlaiAkhir2.exe
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\HitungNIlaiAkhir2\HitungNIlaiAkhir2\obj\Debug\HitungNIlaiAkhir2.xml
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\HitungNIlaiAkhir2\HitungNIlaiAkhir2\obj\Debug\HitungNIlaiAkhir2.pdb

@@ -1,0 +1,15 @@
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menampilkan Form 1 Di Form 2\bin\Debug\Menampilkan Form 1 Di Form 2.exe.config
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menampilkan Form 1 Di Form 2\bin\Debug\Menampilkan Form 1 Di Form 2.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menampilkan Form 1 Di Form 2\bin\Debug\Menampilkan Form 1 Di Form 2.pdb
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menampilkan Form 1 Di Form 2\bin\Debug\Menampilkan Form 1 Di Form 2.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menampilkan Form 1 Di Form 2\obj\Debug\Menampilkan_Form_1_Di_Form_2.Form1.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menampilkan Form 1 Di Form 2\obj\Debug\Menampilkan_Form_1_Di_Form_2.TampilanForm2.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menampilkan Form 1 Di Form 2\obj\Debug\Menampilkan_Form_1_Di_Form_2.Resources.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menampilkan Form 1 Di Form 2\obj\Debug\Menampilkan Form 1 Di Form 2.vbproj.GenerateResource.Cache
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menampilkan Form 1 Di Form 2\obj\Debug\Menampilkan Form 1 Di Form 2.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menampilkan Form 1 Di Form 2\obj\Debug\Menampilkan Form 1 Di Form 2.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menampilkan Form 1 Di Form 2\obj\Debug\Menampilkan Form 1 Di Form 2.pdb
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Menampilkan Form 1 Di Form 2\Menampilkan Form 1 Di Form 2\bin\Debug\Menampilkan Form 1 Di Form 2.exe.config
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Menampilkan Form 1 Di Form 2\Menampilkan Form 1 Di Form 2\obj\Debug\Menampilkan Form 1 Di Form 2.exe
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Menampilkan Form 1 Di Form 2\Menampilkan Form 1 Di Form 2\obj\Debug\Menampilkan Form 1 Di Form 2.xml
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Menampilkan Form 1 Di Form 2\Menampilkan Form 1 Di Form 2\obj\Debug\Menampilkan Form 1 Di Form 2.pdb

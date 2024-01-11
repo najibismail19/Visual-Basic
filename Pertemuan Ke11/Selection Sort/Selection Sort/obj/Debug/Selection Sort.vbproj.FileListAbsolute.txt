@@ -1,0 +1,14 @@
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Selection Sort\bin\Debug\Selection Sort.exe.config
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Selection Sort\obj\Debug\Selection_Sort.Form1.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Selection Sort\obj\Debug\Selection_Sort.Resources.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Selection Sort\obj\Debug\Selection Sort.vbproj.GenerateResource.Cache
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Selection Sort\bin\Debug\Selection Sort.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Selection Sort\bin\Debug\Selection Sort.pdb
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Selection Sort\bin\Debug\Selection Sort.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Selection Sort\obj\Debug\Selection Sort.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Selection Sort\obj\Debug\Selection Sort.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Selection Sort\obj\Debug\Selection Sort.pdb
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Selection Sort\Selection Sort\bin\Debug\Selection Sort.exe.config
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Selection Sort\Selection Sort\obj\Debug\Selection Sort.exe
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Selection Sort\Selection Sort\obj\Debug\Selection Sort.xml
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Selection Sort\Selection Sort\obj\Debug\Selection Sort.pdb

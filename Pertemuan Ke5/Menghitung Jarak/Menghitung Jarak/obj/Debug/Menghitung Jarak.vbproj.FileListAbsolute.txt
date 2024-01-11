@@ -1,0 +1,10 @@
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menghitung Jarak\bin\Debug\Menghitung Jarak.exe.config
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menghitung Jarak\bin\Debug\Menghitung Jarak.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menghitung Jarak\bin\Debug\Menghitung Jarak.pdb
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menghitung Jarak\bin\Debug\Menghitung Jarak.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menghitung Jarak\obj\Debug\Menghitung_Jarak.Form1.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menghitung Jarak\obj\Debug\Menghitung_Jarak.Resources.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menghitung Jarak\obj\Debug\Menghitung Jarak.vbproj.GenerateResource.Cache
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menghitung Jarak\obj\Debug\Menghitung Jarak.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menghitung Jarak\obj\Debug\Menghitung Jarak.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Menghitung Jarak\obj\Debug\Menghitung Jarak.pdb

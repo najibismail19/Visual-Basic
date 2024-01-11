@@ -1,0 +1,11 @@
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Form ListBox\bin\Debug\Form ListBox.exe.config
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Form ListBox\Form ListBox\bin\Debug\Form ListBox.exe.config
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Form ListBox\Form ListBox\bin\Debug\Form ListBox.exe
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Form ListBox\Form ListBox\bin\Debug\Form ListBox.pdb
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Form ListBox\Form ListBox\bin\Debug\Form ListBox.xml
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Form ListBox\Form ListBox\obj\Debug\Form_ListBox.FormListBox.resources
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Form ListBox\Form ListBox\obj\Debug\Form_ListBox.Resources.resources
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Form ListBox\Form ListBox\obj\Debug\Form ListBox.vbproj.GenerateResource.Cache
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Form ListBox\Form ListBox\obj\Debug\Form ListBox.exe
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Form ListBox\Form ListBox\obj\Debug\Form ListBox.xml
+C:\Users\Muhammad Rifky\Documents\Visual Studio 2012\Projects\Form ListBox\Form ListBox\obj\Debug\Form ListBox.pdb

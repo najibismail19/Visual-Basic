@@ -1,0 +1,10 @@
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Barang\bin\Debug\Barang.exe.config
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Barang\bin\Debug\Barang.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Barang\bin\Debug\Barang.pdb
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Barang\bin\Debug\Barang.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Barang\obj\Debug\Barang.Form1.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Barang\obj\Debug\Barang.Resources.resources
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Barang\obj\Debug\Barang.vbproj.GenerateResource.Cache
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Barang\obj\Debug\Barang.exe
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Barang\obj\Debug\Barang.xml
+C:\Users\Muhammad Rifky\AppData\Local\Temporary Projects\Barang\obj\Debug\Barang.pdb
